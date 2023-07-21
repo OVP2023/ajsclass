@@ -1,0 +1,23 @@
+{
+  "name": "ajsclass",
+  "version": "1.0.0",
+  "description": "class homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com\\ovp2023\\ajsclass"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "OVP",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.22.9",
+    "core-js": "^3.31.1",
+    "jest": "^29.6.1"
+  }
+}
